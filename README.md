@@ -23,13 +23,13 @@ The project demonstrates how a **front-end based e-commerce interface works**, i
 
 # 👨‍💻 Developed By
 
-**Aayush Kumar**
+**Ayush sharma**
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/aayush-kumar-9a3620368/
+https://www.linkedin.com/in/ayush-sharma-927960287/
 
 🔗 GitHub  
-https://github.com/AyushKumar101-code
+https://github.com/ayusharmapbtllb-cmyk
 
 ---
 
