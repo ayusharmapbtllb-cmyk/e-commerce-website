@@ -33,7 +33,7 @@ https://github.com/ayusharmapbtllb-cmyk
 
 ---
 
-## LIVE SITE: t https://ayushkumar101-code.github.io/Style-Up-E-commerce-Website-Main/
+## LIVE SITE:  https://ayusharmapbtllb-cmyk.github.io/e-commerce-website/
 
 ## 👓 Preview
 
