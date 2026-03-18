@@ -114,8 +114,8 @@ If you like this project, please give it a **⭐ on GitHub**.
 ## 📬 Contact
 
 LinkedIn  
-https://www.linkedin.com/in/aayush-kumar-9a3620368/
+https://www.linkedin.com/in/ayush-sharma-927960287/
 
 GitHub  
-https://github.com/AyushKumar101-code
+https://github.com/ayusharmapbtllb-cmyk
 
